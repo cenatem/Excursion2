@@ -1,0 +1,28 @@
+html {
+  text-align: center;
+  font-family: Verdana;
+  background-color: #000000
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h1, h2 {
+  color: #FFFFFF;
+}
+p {
+  color: #7FFFD4;
+  font-size: 16px;
+  text-decoration: underline;
+}
+h3 {
+  font-size: 21px;
+  color: #808080;
+}
+#copyright {
+  text-align: right;
+}
